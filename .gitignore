@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+__pycache__/
+*/__pycache__/
+*.xlsx
+_vars.py
